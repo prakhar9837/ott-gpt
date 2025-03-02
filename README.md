@@ -1,5 +1,12 @@
-Created React App
-Configured Tail-Wind CSS
+
+# OTT GPT
+- Created React App
+- Configured Tail-Wind CSS
+- Header
+- Login Form
+- Sign Up Form
+- Form Library : Formic 
+
 
 # Features
 - Login and Sign Up Page
